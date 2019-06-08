@@ -1,0 +1,14 @@
+<gimnasioxml.Reserva>
+  <cli>
+    <dni>111111111A</dni>
+    <nombre>Perico</nombre>
+    <apellidos>Malababa Pava</apellidos>
+    <tlf>111111111</tlf>
+  </cli>
+  <maq>
+    <id>1</id>
+    <nombre>Banco de pesas</nombre>
+  </maq>
+  <fecha>21/02/2015</fecha>
+  <hora>18:00</hora>
+</gimnasioxml.Reserva>
